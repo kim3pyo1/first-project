@@ -1,0 +1,15 @@
+/* :root {
+    --ti-cursor-margin-left:1em;
+    --ti-cursor-color :blue;
+} */
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 3rem;
+    padding: 0 2rem;
+    font-weight: 600;
+  }
